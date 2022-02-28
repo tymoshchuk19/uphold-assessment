@@ -1,0 +1,45 @@
+.small-title {
+  font-size: 0.8em;
+  font-weight: 700;
+  color: #505E6D;
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 2em;
+}
+
+.option {
+    font-size: 0.8em;
+    font-weight: 500;
+    color: #5E6A78;
+    display: block;
+    margin-bottom: 0.8em;
+}
+
+.footer {
+  border-top: 1px solid #F1F2F4;
+  padding-top: 2em;
+  margin-left: 10%;
+  width: 80%;
+}
+
+.address {
+  font-size: 0.7em;
+  color: #8E9BA9;
+  display: block;
+}
+
+.bottom {
+  margin-right: 2em;
+  align-items: left;
+  font-size: 0.7em;
+  color: #8E9BA9;
+  bottom: 0;
+} 
+
+.link {
+  text-decoration: underline #75CA7B; 
+}
+
+.spacing {
+  margin-left: 2em;
+}

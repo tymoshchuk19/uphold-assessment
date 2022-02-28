@@ -1,0 +1,54 @@
+.converter .MuiOutlinedInput-root {
+    background-color: #F0F1F3 !important;
+}
+
+.converter .MuiOutlinedInput-notchedOutline {
+    border: none !important;
+}
+
+#currency {
+    background-color: #fff !important;
+    border-radius: 2em !important;
+}
+
+.fieldinfo {
+    display: block;
+    font-size: 0.7em;
+    color: #8E9BA9;
+    margin-top: 2.5em;
+    margin-bottom: 50%;
+}
+
+#amount {
+    font-size: 2em;
+    font-weight: 400;
+    color: #8E9BA9;
+    padding-bottom: 5px !important;
+    padding-top: 10px !important;
+}
+
+.centered {
+    text-align: center;
+    display: flex;
+}
+
+.resize {
+    width: 1.8em;
+}
+
+.adjust {
+    margin: auto; 
+    margin-left: 0.3em;
+}
+
+.fix {
+    padding: 0.3em;
+    font-weight: 600;
+}
+
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}

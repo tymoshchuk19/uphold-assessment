@@ -1,0 +1,13 @@
+.title {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.info{
+    display: block;
+    margin-bottom: 3em;
+    color: #8E9BA9;
+    font-weight: 400;
+}
